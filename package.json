@@ -1,0 +1,14 @@
+{
+  "name": "doctorChat",
+  "version": "0.0.0",
+  "description": "Direct patient to doctor multiplatform chat application",
+  "main": "app.js",
+  "author": {
+    "name": "Steve G",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "socket.io": "^1.4.5"
+  }
+}
